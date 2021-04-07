@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_bgFMMNNjEeWOreqXqIGeVA" id="_bgDXANNjEeWOreqXqIGeVA" label="Simple_Job" version="0.1" statusCode="" item="_bgFMMtNjEeWOreqXqIGeVA" displayName="Simple_Job">
+    <author href="../talend.project#_RrkKYJdNEeu-5fo8uiMBDg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_4uqWAJdOEeuCh_6vG-X6Yw" path=""/>
+  <TalendProperties:ProcessItem xmi:id="_bgFMMtNjEeWOreqXqIGeVA" property="_bgFMMNNjEeWOreqXqIGeVA" state="_4uqWAJdOEeuCh_6vG-X6Yw">
+    <process href="Simple_Job_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

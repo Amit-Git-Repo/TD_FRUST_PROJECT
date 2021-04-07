@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_9E-oMLNDEeWD1KaP1lj4Lw" id="_9E-BILNDEeWD1KaP1lj4Lw" label="job_sec03_019_tFileOutputJSON" purpose="job_sec03_019_tFileOutputJSON" description="job_sec03_019_tFileOutputJSON" version="0.1" statusCode="" item="_9E-oMrNDEeWD1KaP1lj4Lw" displayName="job_sec03_019_tFileOutputJSON">
+    <author href="../../../talend.project#_RrkKYJdNEeu-5fo8uiMBDg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_1VjsMJdOEeuCh_6vG-X6Yw" path="File/Output1"/>
+  <TalendProperties:ProcessItem xmi:id="_9E-oMrNDEeWD1KaP1lj4Lw" property="_9E-oMLNDEeWD1KaP1lj4Lw" state="_1VjsMJdOEeuCh_6vG-X6Yw">
+    <process href="job_sec03_019_tFileOutputJSON_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

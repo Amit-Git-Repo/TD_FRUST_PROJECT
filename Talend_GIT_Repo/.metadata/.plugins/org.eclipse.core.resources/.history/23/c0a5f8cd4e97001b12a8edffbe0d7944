@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_PpdLcOi3EeWRnZZoEuD4qA" id="_PpckYOi3EeWRnZZoEuD4qA" label="Database_Load_Jobs_0.1.html" version="0.1" statusCode="" item="_PpdLcui3EeWRnZZoEuD4qA" displayName="Database_Load_Jobs_0.1.html">
+    <author href="../talend.project#_RrkKYJdNEeu-5fo8uiMBDg"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_zfY0wJdOEeuCh_6vG-X6Yw" path=""/>
+  <TalendProperties:DocumentationItem xmi:id="_PpdLcui3EeWRnZZoEuD4qA" property="_PpdLcOi3EeWRnZZoEuD4qA" state="_zfY0wJdOEeuCh_6vG-X6Yw" name="Database_Load_Jobs_0.1" extension="html">
+    <content href="Database_Load_Jobs_0.1.html_0.1.item#/"/>
+  </TalendProperties:DocumentationItem>
+</xmi:XMI>

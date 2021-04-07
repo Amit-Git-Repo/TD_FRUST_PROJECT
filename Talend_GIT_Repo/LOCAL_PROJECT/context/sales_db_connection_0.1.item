@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_zZm84JdOEeuCh_6vG-X6Yw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_zZm84ZdOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_Port" prompt="sales_db_connection_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_zZm84pdOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_Password" prompt="sales_db_connection_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:WBfXzh1dc7qGOB5wyTJBijhJdPXhFTeIoH7vIq5PAOA="/>
+  <contextParameter xmi:id="_zZm845dOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_AdditionalParams" prompt="sales_db_connection_AdditionalParams?" promptNeeded="false" type="id_String" value="noDatetimeStringSync=true"/>
+  <contextParameter xmi:id="_zZm85JdOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_Database" prompt="sales_db_connection_Database?" promptNeeded="false" type="id_String" value="sales"/>
+  <contextParameter xmi:id="_zZm85ZdOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_Login" prompt="sales_db_connection_Login?" promptNeeded="false" type="id_String" value="root"/>
+  <contextParameter xmi:id="_zZm85pdOEeuCh_6vG-X6Yw" comment="" name="sales_db_connection_Server" prompt="sales_db_connection_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+</talendfile:ContextType>

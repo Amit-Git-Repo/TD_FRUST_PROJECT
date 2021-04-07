@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_zYlCIJdOEeuCh_6vG-X6Yw" confirmationNeeded="false" name="Default">
+    <contextParameter xmi:id="_zYlCIZdOEeuCh_6vG-X6Yw" comment="" name="context01" prompt="context01?" promptNeeded="true" type="id_Directory" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_zYlCIpdOEeuCh_6vG-X6Yw" confirmationNeeded="false" name="dev">
+    <contextParameter xmi:id="_zYlCI5dOEeuCh_6vG-X6Yw" comment="" name="context01" prompt="context01?" promptNeeded="true" type="id_Directory" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_zYlCJJdOEeuCh_6vG-X6Yw" confirmationNeeded="false" name="prod">
+    <contextParameter xmi:id="_zYlCJZdOEeuCh_6vG-X6Yw" comment="" name="context01" prompt="context01?" promptNeeded="true" type="id_Directory" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_zYlCJpdOEeuCh_6vG-X6Yw" confirmationNeeded="false" name="qa">
+    <contextParameter xmi:id="_zYlCJ5dOEeuCh_6vG-X6Yw" comment="" name="context01" prompt="context01?" promptNeeded="true" type="id_Directory" value=""/>
+  </talendfile:ContextType>
+</xmi:XMI>
