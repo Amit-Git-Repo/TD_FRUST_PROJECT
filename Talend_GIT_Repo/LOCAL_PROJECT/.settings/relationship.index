@@ -6704,6 +6704,10 @@
     "version" : "Latest",
     "type" : "routine"
   }, {
+    "id" : "TalendStringUtil",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
     "id" : "_B0uMAM6nEeWlfZC27JrCKA - metadata",
     "version" : "Latest",
     "type" : "schema"

@@ -357,3 +357,23 @@ java.lang.Exception: [ERROR] Failed to execute goal org.apache.maven.plugins:mav
 	at org.talend.designer.maven.tools.AggregatorPomsHelper.updateCodeProjects(AggregatorPomsHelper.java:164)
 	at org.talend.repository.items.importexport.ui.wizard.imports.ImportItemsWizardPage$20.run(ImportItemsWizardPage.java:1074)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:122)
+
+!ENTRY org.talend.platform.logging 1 0 2021-04-07 09:07:16.011
+!MESSAGE 2021-04-07 09:07:16,009 INFO  org.eclipse.m2e.core.internal.project.WorkspaceClassifierResolverManager  - Resolving P/LOCAL_PROJECT_ROUTINES: org.example.local_project.code:routines:7.3.1 with classifier  to /LOCAL_PROJECT_ROUTINES/target/classes
+
+
+!ENTRY org.talend.platform.logging 1 0 2021-04-07 09:07:16.447
+!MESSAGE 2021-04-07 09:07:16,444 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LOCAL_PROJECT_DATABASE_LOAD_JOBS_0.1/src/main/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2021-04-07 09:07:16.448
+!MESSAGE 2021-04-07 09:07:16,447 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LOCAL_PROJECT_DATABASE_LOAD_JOBS_0.1/src/main/resources
+
+
+!ENTRY org.talend.platform.logging 1 0 2021-04-07 09:07:16.456
+!MESSAGE 2021-04-07 09:07:16,456 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding source folder /LOCAL_PROJECT_DATABASE_LOAD_JOBS_0.1/src/test/java
+
+
+!ENTRY org.talend.platform.logging 1 0 2021-04-07 09:07:16.456
+!MESSAGE 2021-04-07 09:07:16,456 INFO  org.eclipse.m2e.jdt.internal.AbstractJavaProjectConfigurator  - Adding resource folder /LOCAL_PROJECT_DATABASE_LOAD_JOBS_0.1/src/test/resources
+

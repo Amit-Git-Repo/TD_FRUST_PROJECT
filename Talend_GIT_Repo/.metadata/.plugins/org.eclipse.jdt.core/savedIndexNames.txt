@@ -1,5 +1,2 @@
 INDEX VERSION 1.131+D:\TD_FRUST_PROJECT\Talend_GIT_Repo\.metadata\.plugins\org.eclipse.jdt.core
-789488385.index
-1766509458.index
-3638472311.index
-2750823453.index
+2564585934.index
